@@ -1,6 +1,6 @@
 # Mesh Format Converter
 
-> The most useless mesh converter ever written. In 2018 this seemed like a good idea and was promising though.
+> The most useless mesh converter ever written. In 2018 this seemed like a good idea.
 
 C++ microservice for converting 3D mesh files between formats via HTTP API (2018).
 
