@@ -1,6 +1,3 @@
-//
-// Created by webdev on 19.09.2018.
-//
 
 #include "network/NetworkProvider.h"
 #include "controllers/MeshController.h"
