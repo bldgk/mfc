@@ -1,0 +1,10 @@
+build/
+*.o
+*.a
+*.so
+*.ctm
+*.stl
+*.obj
+.DS_Store
+.idea/
+cmake-build-*/
